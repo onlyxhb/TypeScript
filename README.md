@@ -1,6 +1,6 @@
 # TypeScript
 
-[![Build Status](https://travis-ci.org/onlyxhb/TypeScript.svg?branch=master)](https://travis-ci.org/onlyxhb/TypeScript) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Build Status](https://travis-ci.org/onlyxhb/typescript.svg?branch=master)](https://travis-ci.org/typescript/TypeScript) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 🏮 祝所有开发者：牛年大吉！🏮
 
@@ -12,9 +12,9 @@
 
 :new::new::new:
 
-<a href="https://github.com/onlyxhb/TypeScript/issues/310"><img src="./zh/misc/ts-intro.png" alt="TypeScript入门与实战" width="200px" height="200px" style="vertical-align: bottom;"></a>  `ISBN 9787111669722`
+<a href="https://github.com/onlyxhb/typescript/issues/310"><img src="./zh/misc/ts-intro.png" alt="TypeScript入门与实战" width="200px" height="200px" style="vertical-align: bottom;"></a>  `ISBN 9787111669722`
 
-各位朋友们，本人近期出版了[《TypeScript入门与实战》](https://github.com/onlyxhb/TypeScript/issues/310)一书。在该书中，尝试着尽可能完整地介绍TypeScript语言的基础知识，并结合了一些本人的使用经验和体会。它主要面向的是TypeScript语言的初级和中级使用者。
+各位朋友们，本人近期出版了[《TypeScript入门与实战》](https://github.com/onlyxhb/typescript/issues/310)一书。在该书中，尝试着尽可能完整地介绍TypeScript语言的基础知识，并结合了一些本人的使用经验和体会。它主要面向的是TypeScript语言的初级和中级使用者。
 
 本人还处于TypeScript语言的学习阶段，可能存在理解错误的地方，还请大家指正，一起进步。此外，由于这是本人人生中出版的第一本书，难免会有纰漏，请大家多多包涵！
 

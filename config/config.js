@@ -1,9 +1,10 @@
 const config = {
   mode: 'site',
+  locales: [['zh-CN', '中文']],
   title: 'TypeScript手册',
   description: 'JavaScript 完全知识体系',
-  base: '/javascript-guidebook/',
-  publicPath: '/javascript-guidebook/',
+  base: '/typescript/',
+  publicPath: '/typescript/',
   favicon: './favicon.ico',
   logo: 'http://img.mrsingsing.com/javascript-guidebook-favicon.png',
   hash: true,
@@ -12,7 +13,7 @@ const config = {
     null,
     {
       title: 'Github',
-      path: 'https://github.com/onlyxhb/javascript-guidebook',
+      path: 'https://github.com/onlyxhb/typescript',
     },
   ],
   extraBabelPlugins: [

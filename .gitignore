@@ -4,3 +4,4 @@ _book
 .umi/
 .umi-production/
 dist/
+package-lock.json
