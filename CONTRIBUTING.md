@@ -4,7 +4,7 @@
 
 * 从队列中选择一项待翻译的条目。
 
-  [翻译列表](https://github.com/zhongsp/TypeScript/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
+  [翻译列表](https://github.com/onlyxhb/TypeScript/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
 
 * Fork仓库，添加译文，最后检查Markdown风格
 
