@@ -12,8 +12,8 @@ order: 1
 # 介绍
 
 * [5分钟了解TypeScript](/tutorials/typescript-in-5-minutes.md)
-* [ASP.NET Core](/tutorials/asp.net-core.md)
-* [ASP.NET 4](/tutorials/asp.net-4.md)
+* [ASP.NET Core](/tutorials/asp_net-core.md)
+* [ASP.NET 4](/tutorials/asp_net-4.md)
 * [Gulp](/tutorials/gulp.md)
 * [Knockout.js](/tutorials/knockout.md)
 * [React与webpack](/tutorials/react-and-webpack.md)

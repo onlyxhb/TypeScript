@@ -29,7 +29,7 @@ const config = {
   resolve: {
     includes: ['zh', 'src'],
     excludes: ['config', 'scripts'],
-    previewLangs: ['jsx', 'tsx']
+    previewLangs: []
   }
 };
 

@@ -11,7 +11,7 @@ order: 7
 
 # 工程配置
 
-  * [tsconfig.json](/project-config/tsconfig.json.md)
+  * [tsconfig.json](/project-config/tsconfig_json.md)
   * [工程引用](/project-config/project-references.md)
   * [NPM包的类型](/project-config/typings-for-npm-packages.md)
   * [编译选项](/project-config/compiler-options.md)

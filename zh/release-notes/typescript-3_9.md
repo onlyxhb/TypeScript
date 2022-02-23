@@ -1,3 +1,5 @@
+# TypeScript 3.9
+
 ## 改进类型推断和`Promise.all`
 
 TypeScript的最近几个版本（3.7前后）更新了像`Promise.all`和`Promise.race`等的函数声明。
