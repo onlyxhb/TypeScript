@@ -1,3 +1,14 @@
+---
+nav:
+  title: 字面量类型
+  order: 4
+group:
+  title: 字面量类型
+  order: 1
+title: 模版字面量类型
+order: 2
+---
+
 # 模版字面量类型
 
 > 从 TypeScript 4.1 开始支持

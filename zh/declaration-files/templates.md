@@ -1,10 +1,18 @@
+---
+nav:
+  title: 声明文件
+  order: 5
+title: 模板
+order: 5
+---
+
 # 模板
 
-* [global-modifying-module.d.ts](templates/global-modifying-module.d.ts.md)
-* [global-plugin.d.ts](templates/global-plugin.d.ts.md)
-* [global.d.ts](templates/global.d.ts.md)
-* [module-class.d.ts](templates/module-class.d.ts.md)
-* [module-function.d.ts](templates/module-function.d.ts.md)
-* [module-plugin.d.ts](templates/module-plugin.d.ts.md)
-* [module.d.ts](templates/module.d.ts.md)
+* [global-modifying-module.d.ts](/declaration-files/templates/global-modifying-module.d.md)
+* [global-plugin.d.ts](/declaration-files/templates/global-plugin.d.md)
+* [global.d.ts](/declaration-files/templates/global.d.md)
+* [module-class.d.ts](/declaration-files/templates/module-class.d.md)
+* [module-function.d.ts](/declaration-files/templates/module-function.d.md)
+* [module-plugin.d.ts](/declaration-files/templates/module-plugin.d.md)
+* [module.d.ts](/declaration-files/templates/module.d.md)
 

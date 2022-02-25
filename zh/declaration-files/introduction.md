@@ -1,3 +1,11 @@
+---
+nav:
+  title: 声明文件
+  order: 5
+title: 介绍
+order: 2
+---
+
 声明文件一章的目的是教你如何编写高质量的 TypeScript 声明文件。
 我们假设你对 TypeScript 已经有了基本的了解。
 

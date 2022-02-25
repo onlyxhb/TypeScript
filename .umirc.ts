@@ -1,4 +1,6 @@
-const config = {
+import { defineConfig } from 'dumi'
+
+export default defineConfig({
   mode: 'site',
   locales: [['zh-CN', '中文']],
   title: 'TypeScript手册',
@@ -8,6 +10,7 @@ const config = {
   favicon: './favicon.ico',
   logo: 'http://img.mrsingsing.com/javascript-guidebook-favicon.png',
   hash: true,
+  outputPath: 'docs-dist',
   exportStatic: {},
   navs: [
     null,
@@ -31,10 +34,4 @@ const config = {
     excludes: ['config', 'scripts'],
     previewLangs: []
   }
-};
-
-if (process.env.NODE_ENV !== 'development') {
-  config.ssr = {};
-}
-
-export default config;
+})

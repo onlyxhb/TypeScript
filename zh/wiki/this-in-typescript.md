@@ -1,3 +1,11 @@
+---
+nav:
+  title: Wiki
+  order: 8
+title: TypeScript里的this
+order: 2
+---
+
 # TypeScript里的this
 
 ## 介绍

@@ -2,11 +2,8 @@
 nav:
   title: 进阶
   order: 3
-group:
-  title: 进阶
-  order: 3
-title: 进阶
-order: 3
+title: 目录
+order: 1
 ---
 
 进阶

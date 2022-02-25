@@ -1,3 +1,11 @@
+---
+nav:
+  title: Wiki
+  order: 8
+title: 支持TypeScript的编辑器
+order: 5
+---
+
 # 支持TypeScript的编辑器
 
 ## 快捷列表

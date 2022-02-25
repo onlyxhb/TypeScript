@@ -1,3 +1,11 @@
+---
+nav:
+  title: 介绍
+  order: 1
+title: Angular 2
+order: 9
+---
+
 # Angular 2
 
 即将到来的Angular 2框架是使用TypeScript开发的。 因此Angular和TypeScript一起使用非常简单方便。 Angular团队也在其文档里把TypeScript视为一等公民。

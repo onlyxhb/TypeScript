@@ -1,3 +1,11 @@
+---
+nav:
+  title: Wiki
+  order: 8
+title: 结合ASP.NET v5使用TS
+order: 6
+---
+
 # 结合ASP.NET v5使用TypeScript
 
 与ASP.NET v5一起使用TypeScript需要你用特定的方式来设置你的工程。 更多关于ASP.NET v5的详细信息请查看[ASP.NET v5 文档](http://docs.asp.net/en/latest/conceptual-overview/index.html) 在Visual Studio的工程里支持当前的tsconfig.json还在开发之中，可以在这里查看进度[\#3983](https://github.com/Microsoft/TypeScript/issues/3983)。

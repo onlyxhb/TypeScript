@@ -10,7 +10,7 @@
     "lint:md": "lint-md *.md",
     "lint:fix": "lint-md *.md --fix",
     "build": "yarn run dumi build",
-    "deploy": "gh-pages -d dist",
+    "deploy": "gh-pages -d docs-dist",
     "clean": "gh-pages-clean"
   },
   "repository": {

@@ -1,3 +1,11 @@
+---
+nav:
+  title: Wiki
+  order: 8
+title: 编码规范
+order: 3
+---
+
 # 编码规范
 
 这个编码规范是给TypeScript开发团队在开发TypeScript时使用的。 对于使用TypeScript的普通用户来说不一定适用，但是可以做为一个参考。

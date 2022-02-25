@@ -1,3 +1,11 @@
+---
+nav:
+  title: 进阶
+  order: 3
+title: 声明合并
+order: 5
+---
+
 # 声明合并
 
 ## 介绍

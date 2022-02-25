@@ -1,3 +1,11 @@
+---
+nav:
+  title: 基础
+  order: 2
+title: 基础类型
+order: 2
+---
+
 # 基础类型
 
 ## 介绍

@@ -1,3 +1,11 @@
+---
+nav:
+  title: 工程配置
+  order: 7
+title: tsconfig.json
+order: 2
+---
+
 # tsconfig.json
 
 ## 概述

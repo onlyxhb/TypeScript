@@ -1,3 +1,11 @@
+---
+nav:
+  title: 介绍
+  order: 1
+title: 从JS迁移到TS
+order: 10
+---
+
 # 从JavaScript迁移到TypeScript
 
 TypeScript不是凭空存在的。 它从JavaScript生态系统和大量现存的JavaScript而来。 将JavaScript代码转换成TypeScript虽乏味却不是难事。 接下来这篇教程将教你怎么做。 在开始转换TypeScript之前，我们假设你已经理解了足够多本手册里的内容。

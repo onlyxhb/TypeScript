@@ -1,3 +1,11 @@
+---
+nav:
+  title: 基础
+  order: 2
+title: 函数
+order: 4
+---
+
 # 函数
 
 ## 介绍

@@ -1,3 +1,11 @@
+---
+nav:
+  title: 介绍
+  order: 1
+title: React
+order: 8
+---
+
 # React
 
 这篇快速上手指南会教你如何将TypeScript与[React](https://reactjs.org/)结合起来使用。 在最后，你将学到：

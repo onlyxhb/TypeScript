@@ -1,3 +1,11 @@
+---
+nav:
+  title: 基础
+  order: 2
+title: 泛型
+order: 8
+---
+
 # 泛型
 
 ## 介绍

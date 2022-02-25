@@ -1,3 +1,11 @@
+---
+nav:
+  title: 进阶
+  order: 3
+title: 高级类型
+order: 2
+---
+
 # 高级类型
 
 ## 交叉类型（Intersection Types）

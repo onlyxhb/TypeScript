@@ -1,3 +1,11 @@
+---
+nav:
+  title: 介绍
+  order: 1
+title: ASP.NET Core
+order: 3
+---
+
 # ASP.NET Core
 
 ## ASP.NET Core

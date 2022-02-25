@@ -2,10 +2,7 @@
 nav:
   title: 介绍
   order: 1
-group:
-  title: 介绍
-  order: 1
-title: 介绍
+title: 目录
 order: 1
 ---
 
@@ -19,5 +16,5 @@ order: 1
 * [React与webpack](/tutorials/react-and-webpack.md)
 * [React](/tutorials/react.md)
 * [Angular 2](/tutorials/angular-2.md)
-* [从JavaScript迁移到TypeScript](/tutorials/migrating-from-javascript.md)
+* [从JS迁移到TS](/tutorials/migrating-from-javascript.md)
 

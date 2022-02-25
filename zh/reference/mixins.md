@@ -1,3 +1,11 @@
+---
+nav:
+  title: 进阶
+  order: 3
+title: 混入
+order: 8
+---
+
 # 混入
 
 ## Table of contents

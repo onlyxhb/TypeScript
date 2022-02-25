@@ -1,3 +1,11 @@
+---
+nav:
+  title: 介绍
+  order: 1
+title: React与webpack
+order: 7
+---
+
 # React与webpack
 
 这篇指南将会教你如何将TypeScript和[React](https://reactjs.org/)还有[webpack](http://webpack.github.io/)结合在一起使用。

@@ -1,3 +1,11 @@
+---
+nav:
+  title: 进阶
+  order: 3
+title: 类型推论
+order: 16
+---
+
 # 类型推论
 
 ## 介绍

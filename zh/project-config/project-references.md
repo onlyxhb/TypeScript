@@ -1,3 +1,11 @@
+---
+nav:
+  title: 工程配置
+  order: 7
+title: 工程引用
+order: 3
+---
+
 # 工程引用
 
 工程引用是TypeScript 3.0的新特性，它支持将TypeScript程序的结构分割成更小的组成部分。

@@ -1,3 +1,11 @@
+---
+nav:
+  title: 基础
+  order: 2
+title: 字面量类型
+order: 5
+---
+
 # 字面量类型
 
 ## 介绍

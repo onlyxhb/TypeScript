@@ -1,3 +1,11 @@
+---
+nav:
+  title: 进阶
+  order: 3
+title: 变量声明
+order: 17
+---
+
 # 变量声明
 
 ## 变量声明

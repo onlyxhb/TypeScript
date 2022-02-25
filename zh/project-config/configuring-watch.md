@@ -1,3 +1,11 @@
+---
+nav:
+  title: 工程配置
+  order: 7
+title: 配置 Watch
+order: 5
+---
+
 # 配置 Watch
 
 编译器支持使用环境变量配置如何监视文件和目录的变化。

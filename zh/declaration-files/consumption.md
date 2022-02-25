@@ -1,3 +1,11 @@
+---
+nav:
+  title: 声明文件
+  order: 5
+title: 使用
+order: 9
+---
+
 # 使用
 
 ## 下载

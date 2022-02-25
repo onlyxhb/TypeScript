@@ -1,3 +1,11 @@
+---
+nav:
+  title: 工程配置
+  order: 7
+title: 在MSBuild里使用编译选项
+order: 6
+---
+
 # 在MSBuild里使用编译选项
 
 ## 概述

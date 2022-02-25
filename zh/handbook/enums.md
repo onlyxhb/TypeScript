@@ -1,3 +1,11 @@
+---
+nav:
+  title: 基础
+  order: 2
+title: 枚举
+order: 7
+---
+
 # 枚举
 
 ## 枚举

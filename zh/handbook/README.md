@@ -2,11 +2,8 @@
 nav:
   title: 基础
   order: 2
-group:
-  title: 基础
-  order: 2
-title: 基础
-order: 2
+title: 目录
+order: 1
 ---
 
 # 基础

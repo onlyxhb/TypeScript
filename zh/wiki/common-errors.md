@@ -1,3 +1,11 @@
+---
+nav:
+  title: Wiki
+  order: 8
+title: 常见编译错误
+order: 4
+---
+
 # 常见编译错误
 
 ## 介绍

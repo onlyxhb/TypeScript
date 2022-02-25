@@ -1,3 +1,11 @@
+---
+nav:
+  title: 介绍
+  order: 1
+title: 5分钟了解TypeScript
+order: 2
+---
+
 # 5分钟了解TypeScript
 
 让我们使用TypeScript来创建一个简单的Web应用。

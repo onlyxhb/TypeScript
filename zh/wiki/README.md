@@ -2,11 +2,8 @@
 nav:
   title: Wiki
   order: 8
-group:
-  title: Wiki
-  order: 8
-title: Wiki
-order: 8
+title: 目录
+order: 1
 ---
 
 # Wiki

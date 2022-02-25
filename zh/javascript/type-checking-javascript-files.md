@@ -1,3 +1,14 @@
+---
+nav:
+  title: 类型检查-JS
+  order: 6
+group:
+  title: 类型检查-JS
+  order: 1
+title: 类型检查-JS
+order: 1
+---
+
 # JavaScript文件里的类型检查
 
 TypeScript 2.3以后的版本支持使用`--checkJs`对`.js`文件进行类型检查和错误提示。

@@ -1,3 +1,11 @@
+---
+nav:
+  title: 介绍
+  order: 1
+title: Knockout.js
+order: 6
+---
+
 # Knockout.js
 
 > 注意： 此教程已从官方删除

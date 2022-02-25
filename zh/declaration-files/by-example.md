@@ -1,3 +1,11 @@
+---
+nav:
+  title: 声明文件
+  order: 5
+title: 举例
+order: 3
+---
+
 # 举例
 
 这篇指南的目的是教你如何书写高质量的 TypeScript 声明文件。

@@ -1,3 +1,11 @@
+---
+nav:
+  title: 进阶
+  order: 3
+title: Iterators 和 Generators
+order: 6
+---
+
 # Iterators 和 Generators
 
 当一个对象实现了[`Symbol.iterator`](symbols.md#symboliterator)属性时，我们认为它是可迭代的。 一些内置的类型如`Array`，`Map`，`Set`，`String`，`Int32Array`，`Uint32Array`等都已经实现了各自的`Symbol.iterator`。 对象上的`Symbol.iterator`函数负责返回供迭代的值。

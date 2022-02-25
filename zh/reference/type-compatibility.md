@@ -1,3 +1,11 @@
+---
+nav:
+  title: 进阶
+  order: 3
+title: 类型兼容性
+order: 15
+---
+
 # 类型兼容性
 
 ## 介绍
