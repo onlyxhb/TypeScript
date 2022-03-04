@@ -17,5 +17,5 @@ features:
   - icon: https://gw.alipayobjects.com/zos/bmw-prod/d1ee0c6f-5aed-4a45-a507-339a4bfe076c/k7bjsocq_w144_h144.png
     title: 兼容性强
     desc: TypeScript兼容所有浏览器，所有宿主环境，所有操作系统
-footer: Open-source MIT Licensed | Copyright © 2019-present<br />Powered by onlyxhb
+footer: <a target="_blank" class="beian" href="https://beian.miit.gov.cn/">鄂ICP备17004871号-1</a> | Copyright © 2021-present<br />Powered by 随波逐流
 ---
