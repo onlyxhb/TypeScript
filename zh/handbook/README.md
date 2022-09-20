@@ -12,7 +12,7 @@ order: 1
 * [接口](/handbook/interfaces.md)
 * [函数](/handbook/functions.md)
 * [字面量类型](/handbook/literal-types.md)
-* _@todo 联合类型和交叉类型_
+* [联合类型和交叉类型_](/handbook/unions-and-intersections.md)
 * [类](/handbook/classes.md)
 * [枚举](/handbook/enums.md)
 * [泛型](/handbook/generics.md)

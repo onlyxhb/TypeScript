@@ -11,6 +11,9 @@ order: 9
 
 # 新增功能
 
+* [TypeScript 4.8](/release-notes/typescript-4_8.md)
+* [TypeScript 4.7](/release-notes/typescript-4_7.md)
+* [TypeScript 4.6](/release-notes/typescript-4_6.md)
 * [TypeScript 4.5](/release-notes/typescript-4_5.md)
 * [TypeScript 4.4](/release-notes/typescript-4_4.md)
 * [TypeScript 4.3](/release-notes/typescript-4_3.md)

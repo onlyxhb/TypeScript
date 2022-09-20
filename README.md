@@ -2,11 +2,21 @@
 
 [![Build Status](https://travis-ci.org/onlyxhb/typescript.svg?branch=master)](https://travis-ci.org/typescript/TypeScript) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
+## 上新！
+
+之前有许多小伙伴提出希望能将该手册发布为**Book**，
+近来该项目又持续不断地有新的朋友关注，
+因此现将所有文档整理发布为**图书**样式。希望大家能够喜欢!
+
+线上阅读地址：[http://zhongsp.github.io/TypeScript](http://zhongsp.github.io/TypeScript)
+
+---
+
 🏮 祝所有开发者：牛年大吉！🏮
 
-<img src="./zh/misc/ts_logo.jpg" alt="TypeScript" width="24px" height="24px" style="vertical-align: bottom;">  [TypeScript 4.5 (November 17th, 2021)](https://devblogs.microsoft.com/typescript/announcing-typescript-4-5/)
+<img src="./zh/misc/ts_logo.jpg" alt="TypeScript" width="24px" height="24px" style="vertical-align: bottom;">  [TypeScript 4.8 RC (2022年8月11日)](https://devblogs.microsoft.com/typescript/announcing-typescript-4-8-rc)
 |
-[版本发布说明](zh/release-notes/typescript-4.5.md)
+[版本发布说明](zh/release-notes/typescript-4.8.md)
 
 :heavy_check_mark: TypeScript语言用于大规模应用的JavaScript开发。  :heavy_check_mark: TypeScript支持类型，是JavaScript的超集且可以编译成纯JavaScript代码。  :heavy_check_mark: TypeScript兼容所有浏览器，所有宿主环境，所有操作系统。  :heavy_check_mark: TypeScript是开源的。
 
@@ -39,7 +49,7 @@
   * [接口](zh/handbook/interfaces.md)
   * [函数](zh/handbook/functions.md)
   * [字面量类型](zh/handbook/literal-types.md)
-  * _@todo 联合类型和交叉类型_
+  * [联合类型和交叉类型](zh/handbook/unions-and-intersections.md)
   * [类](zh/handbook/classes.md)
   * [枚举](zh/handbook/enums.md)
   * [泛型](zh/handbook/generics.md)
@@ -91,6 +101,9 @@
   * [架构概述](zh/wiki/architectural-overview.md)
   * [发展路线图](zh/wiki/roadmap.md)
 * [新增功能](zh/release-notes/README.md)
+  * [TypeScript 4.8](zh/release-notes/typescript-4.8.md)
+  * [TypeScript 4.7](zh/release-notes/typescript-4.7.md)
+  * [TypeScript 4.6](zh/release-notes/typescript-4.6.md)
   * [TypeScript 4.5](zh/release-notes/typescript-4.5.md)
   * [TypeScript 4.4](zh/release-notes/typescript-4.4.md)
   * [TypeScript 4.3](zh/release-notes/typescript-4.3.md)

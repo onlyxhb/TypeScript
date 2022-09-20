@@ -3,7 +3,7 @@ nav:
   title: 基础
   order: 2
 title: 类
-order: 6
+order: 7
 ---
 
 # 类

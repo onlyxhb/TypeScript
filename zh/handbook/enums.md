@@ -3,7 +3,7 @@ nav:
   title: 基础
   order: 2
 title: 枚举
-order: 7
+order: 8
 ---
 
 # 枚举

@@ -3,7 +3,7 @@ nav:
   title: 基础
   order: 2
 title: 泛型
-order: 8
+order: 9
 ---
 
 # 泛型
