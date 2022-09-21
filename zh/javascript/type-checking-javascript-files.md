@@ -2,11 +2,7 @@
 nav:
   title: 类型检查-JS
   order: 6
-group:
-  title: 类型检查-JS
-  order: 1
-title: 类型检查-JS
-order: 1
+sidemenu: false
 ---
 
 # JavaScript文件里的类型检查

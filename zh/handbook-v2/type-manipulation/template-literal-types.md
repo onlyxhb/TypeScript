@@ -2,11 +2,7 @@
 nav:
   title: 字面量类型
   order: 4
-group:
-  title: 字面量类型
-  order: 1
-title: 模版字面量类型
-order: 2
+sidemenu: false
 ---
 
 # 模版字面量类型
